@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "ikea-customer-info",
-  "private_key_id": "6fe6773c397e5fb6b2d8d6f6706fe19256590495",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQChpnAg04+YCzk6\n1Di5f2IuP/xQO9mr/CGLz2P1RQ3jmZolPDXmhptBQY0hOKHeJqN7ZeItbQz4feLj\nu8ZMYZ9ZD3crWDV0ynit9NTHCjqE9/wzmelff+qLkhk13X2Uy5ic1Bst2M2Svgsr\n63cF1JtKi7pztXacENXGe0duI/yAkE/QLtGlePqxXvvFzvRsbpdJj2Gz2osPnv/b\nSEqP4qUyDalrPIwZDGU47a2g6qQAvdQJmx0avwqjU4OcOWTQ4ty+BgtQ6MHGYbi4\nYwQgsOOd0CVcfiM0EmkCpLL/CNllQSk8mfLSS6urumEtotW1BArjBKOls4PhOMlF\nO2Owti9FAgMBAAECggEADSkiJeSzjdBpchBcfJW8u5aQB0Q9fj1tHxcybyyWazpS\njMeF0o/mTKjL7FwnqZDXFzEopJl6ndyPQAqbTr//8N32eNFEq46JxrfmfudRSQlw\n6g6U1nvxROMPKbiFBJE9ipR7kKmptacX/RUS6qbwQbXLPKfAfAekL/WneiB0lU7e\nfqsPkYaPY95sUrRHhaDiTXiCr6W9knTPJLtAMd7xz93zc7owEaRWE3tyJwYLMWlT\npl36T3Ey+0ci+l1Fi66wZNAV8aoqCNpiQ0L+wDGw3ihCA0ZI4fWvLwgXn+SW5TAy\nM+orGPeBKUrMcrL+tyMgLzrdMiZsL1+5apCJDGll3QKBgQDkEJ9wvqOZ9u0r1gHl\n5e+iIHEah1Lno2mEj3j6LH111e09DHPIUmdYxc4kh1NJL9zRvz80ffR42KlY6cdR\nu/a9LWWOPGyukcT4uksKKDjNBdkQForxaT+nQvyogU6HEx/DDtwrCDwSxWyM7fwE\ncjyy2Makqw9ONHdZownN1+xHqwKBgQC1c0NFv9o2Ntz0x0s29cmqDnNu6LLz8CIF\ndzpXvTy86DBSMGv7rf79ph2mYGoyNC/Ba+oJtr1OlQjVRTeoCvKMgE6Zn55cydrc\neiOWNpCSER9D7mfvleQmfHj5XQMJMgtLRevCfTe3sicbRAMwabKBbcfBW3s8SinA\no+hCjsy0zwKBgQCjv6eq3MY8ksWhVswQFDMldiOfR5BoDrWBXz4eafk+tPXcgmdT\nao8XdxbWtW9AOiRTWPx5pQH2DqIw29GnxsyW8dRb9tiV0sXZTHD6fvyhgFRkr7rd\nMJNqdbdRCV6nrzx74dyE7Sms1KFm4qyzSI56XxjpPIUFwrf63Qv6BtF4dwKBgQCJ\n4H7i1kiy33eAjJuLtLK7hOWUBkBM+lBvxMxRdVtc1DY7jc3P3cQf64UmMqcfZOZQ\n3HZnUTOCLd8bZ9BF4aOyvaB8PXzxVvT2idzWvLmYNGiEjvjtZgGKeRTXrySqbRuF\n5Cikjc+zxyzOHB0sQXTBwrCCLchz5IrbdfD7+lR0owKBgH+5INxQVaUfFMIN/u0W\niYtv/e3CWPB/32yfpFKF5AJYYF2iLHmkoN96TaTlHtKjVzmVPYuhJ2Ot32HxN7j9\nD93Zvzf7vpXaERP6DWK6E91n15AbWv4z4LZonLrhRmTt17lo795DSFtTnbAxrmwn\n2iFJY/KeSwimkLNQuC4MZ8fN\n-----END PRIVATE KEY-----\n",
-  "client_email": "customerikea@ikea-customer-info.iam.gserviceaccount.com",
-  "client_id": "115226658856704362160",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/customerikea%40ikea-customer-info.iam.gserviceaccount.com"
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
